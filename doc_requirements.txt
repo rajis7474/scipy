@@ -8,3 +8,4 @@ matplotlib>2
 jupytext
 myst-nb
 pooch
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
